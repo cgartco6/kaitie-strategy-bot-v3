@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.vercel
+node_modules/
+dist/
+
+# System-level private environment credential stores
+.env
